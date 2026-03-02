@@ -1,0 +1,4 @@
+"contract_type","total_customers","churned_customers","retained_customers","churn_rate_percent","annual_revenue_at_risk","monthly_revenue_lost","avg_monthly_charge_churned","pct_of_customer_base","pct_of_total_churn"
+Month-to-month,3875,1655,2220,42.71,1450165.20,120847.10,73.02,55.02,88.55
+One year,1473,166,1307,11.27,169421.40,14118.45,85.05,20.91,8.88
+Two year,1695,48,1647,2.83,49983.60,4165.30,86.78,24.07,2.57

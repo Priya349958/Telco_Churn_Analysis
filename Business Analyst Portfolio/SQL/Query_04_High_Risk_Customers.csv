@@ -1,0 +1,21 @@
+"contract","internet_service","tech_support","tenure_group","customer_count","churned","churn_rate","revenue_at_risk","risk_level"
+Month-to-month,Fiber optic,No,"0-1 Year",833,592,71.07,581879.40,CRITICAL
+Month-to-month,Fiber optic,Yes,"0-1 Year",83,51,61.45,56260.20,CRITICAL
+Month-to-month,Fiber optic,No,"1-2 Years",353,185,52.41,194265.00,CRITICAL
+Month-to-month,Fiber optic,No,"2-3 Years",243,118,48.56,126415.20,HIGH
+Month-to-month,DSL,No,"0-1 Year",530,240,45.28,126201.60,HIGH
+Month-to-month,Fiber optic,No,"3-4 Years",162,68,41.98,75421.20,HIGH
+Month-to-month,Fiber optic,Yes,"1-2 Years",72,30,41.67,34297.80,HIGH
+Month-to-month,Fiber optic,Yes,"3-4 Years",50,19,38.00,23176.20,HIGH
+Month-to-month,Fiber optic,No,"4+ Years",205,70,34.15,80008.20,MEDIUM
+Month-to-month,DSL,Yes,"0-1 Year",160,53,33.13,34021.20,MEDIUM
+Month-to-month,Fiber optic,Yes,"2-3 Years",66,21,31.82,24132.00,MEDIUM
+One year,Fiber optic,Yes,"3-4 Years",38,12,31.58,14830.80,MEDIUM
+One year,Fiber optic,No,"2-3 Years",39,11,28.21,12527.40,MEDIUM
+Month-to-month,DSL,No,"1-2 Years",160,42,26.25,24765.60,MEDIUM
+Month-to-month,DSL,No,"3-4 Years",68,16,23.53,9193.80,MEDIUM
+Month-to-month,No,No internet service,"0-1 Year",388,88,22.68,21255.00,MEDIUM
+One year,Fiber optic,No,"4+ Years",204,39,19.12,46875.00,LOW
+One year,Fiber optic,Yes,"4+ Years",151,28,18.54,36239.40,LOW
+Month-to-month,DSL,Yes,"1-2 Years",72,13,18.06,8419.20,LOW
+Month-to-month,DSL,No,"4+ Years",50,9,18.00,5275.80,LOW

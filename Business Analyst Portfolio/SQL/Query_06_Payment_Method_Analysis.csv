@@ -1,0 +1,5 @@
+"payment_method","total_customers","churned_customers","churn_rate","avg_monthly_charge","annual_revenue_at_risk","pct_paperless","avg_tenure_months","pct_of_customers","recommendation"
+Electronic check,2365,1071,45.29,76.26,1011465.00,73.66,25.17,33.58,Investigate issues
+Mailed check,1612,308,19.11,43.92,201643.20,40.69,21.83,22.89,Promote this method
+Bank transfer (automatic),1544,258,16.71,67.19,241102.80,57.71,43.66,21.92,Promote this method
+Credit card (automatic),1522,232,15.24,66.51,215359.20,57.95,43.27,21.61,Promote this method

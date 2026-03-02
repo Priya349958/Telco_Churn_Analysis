@@ -1,0 +1,2 @@
+"total_customers","churned_customers","retained_customers","churn_rate_percent","retention_rate_percent","annual_revenue_at_risk","monthly_recurring_revenue_lost","total_monthly_revenue_lost","avg_monthly_charge_churned","avg_monthly_charge_retained","price_sensitivity_gap","total_lifetime_value_lost","avg_lifetime_value_per_churned","avg_tenure_churned_months","avg_tenure_retained_months"
+7043,1869,5174,26.54,73.46,1669570.20,139130.85,139130.85,74.44,61.27,13.18,2862926.90,1531.80,17.98,37.57

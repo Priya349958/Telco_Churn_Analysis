@@ -1,0 +1,6 @@
+"tenure_group","total_customers","churned_customers","churn_rate_percent","annual_revenue_at_risk","pct_of_total_annual_revenue_at_risk","avg_monthly_charge","avg_tenure_months_before_churn","pct_of_total_churn"
+"0-1 Year",2186,1037,47.44,827451.00,49.56,56.10,4.01,55.48
+"1-2 Years",1024,294,28.71,276979.80,16.59,61.36,17.79,15.73
+"2-3 Years",832,180,21.63,182015.40,10.90,65.58,30.14,9.63
+"3-4 Years",762,145,19.03,147534.60,8.84,66.32,42.06,7.76
+"4+ Years",2239,213,9.51,235589.40,14.11,73.95,59.60,11.40
